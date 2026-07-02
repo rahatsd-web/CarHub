@@ -1,2 +1,1 @@
-# CarHub
-CarHub Description
+This project is a frontend website developed using HTML, CSS, and JavaScript, designed to provide multiple vehicle-related services in one place. The main objective is to offer users a convenient platform where they can explore various options for their vehicles under one roof. The website focuses on user-friendly design, smooth navigation, and an organized interface to enhance the overall user experience.
